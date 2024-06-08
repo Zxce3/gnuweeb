@@ -1,0 +1,150 @@
+repo_name: Zxce3/11ty-theme-kernelorg
+report_id: 5f78871f46f964ee37ff11cbc0e07436
+version: 0.1
+repo_type: Public
+timestamp: '2024-06-08T17:13:05+00:00'
+requested_by: Zxce3
+provider: github
+branch: main
+detected_tools_count: 11
+tools:
+- name: JavaScript
+  description: Lightweight, interpreted, object-oriented language with first-class
+    functions
+  website_url: https://developer.mozilla.org/en-US/docs/Web/JavaScript
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/1209/javascript.jpeg
+  detection_source_url: https://github.com/Zxce3/11ty-theme-kernelorg
+  detection_source: Repo Metadata
+- name: Sass
+  description: Syntactically Awesome Style Sheets
+  website_url: http://sass-lang.com/
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: CSS Pre-processors / Extensions
+  image_url: https://img.stackshare.io/service/1171/jCR2zNJV.png
+  detection_source_url: https://github.com/Zxce3/11ty-theme-kernelorg/blob/main/package.json
+  detection_source: package.json
+  last_updated_by: Memet Zx
+  last_updated_on: 2022-10-11 23:04:29.000000000 Z
+- name: Esbuild
+  description: An extremely fast JavaScript bundler
+  website_url: https://esbuild.github.io/
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: JS Build Tools / JS Task Runners
+  image_url: https://img.stackshare.io/service/25166/default_2dcc9286a150737a14625d18f6f93747f72be430.png
+  detection_source_url: https://github.com/Zxce3/11ty-theme-kernelorg/blob/main/package.json
+  detection_source: package.json
+  last_updated_by: Memet Zx
+  last_updated_on: 2022-10-11 23:04:29.000000000 Z
+- name: Git
+  description: Fast, scalable, distributed revision control system
+  website_url: http://git-scm.com/
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Version Control System
+  image_url: https://img.stackshare.io/service/1046/git.png
+  detection_source_url: https://github.com/Zxce3/11ty-theme-kernelorg
+  detection_source: Repo Metadata
+- name: Yarn
+  description: A new package manager for JavaScript
+  website_url: https://yarnpkg.com/
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Front End Package Manager
+  image_url: https://img.stackshare.io/service/5848/44mC-kJ3.jpg
+  detection_source_url: https://github.com/Zxce3/11ty-theme-kernelorg/blob/main/yarn.lock
+  detection_source: yarn.lock
+  last_updated_by: Memet Zx
+  last_updated_on: 2022-10-11 23:04:29.000000000 Z
+- name: npm
+  description: The package manager for JavaScript.
+  website_url: https://www.npmjs.com/
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Front End Package Manager
+  image_url: https://img.stackshare.io/service/1120/lejvzrnlpb308aftn31u.png
+  detection_source_url: https://github.com/Zxce3/11ty-theme-kernelorg/blob/main/package.json
+  detection_source: package.json
+  last_updated_by: Memet Zx
+  last_updated_on: 2022-10-11 23:04:29.000000000 Z
+- name: Luxon
+  description: Library for working with dates and times in Javascript
+  website_url: https://moment.github.io/luxon/
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Javascript Utilities & Libraries
+  image_url: https://img.stackshare.io/service/10330/no-img-open-source.png
+  detection_source_url: https://github.com/Zxce3/11ty-theme-kernelorg/blob/main/package.json
+  detection_source: package.json
+  last_updated_by: Memet Zx
+  last_updated_on: 2022-10-11 23:04:29.000000000 Z
+- name: del-cli
+  description: Delete files and directories - Cross-platform
+  package_url: https://www.npmjs.com/del-cli
+  version: 5.0.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16349/default_22cf6cee54c697b5a223902962cc57a55ee80be9.png
+  detection_source_url: https://github.com/Zxce3/11ty-theme-kernelorg/blob/main/yarn.lock
+  detection_source: package.json
+  last_updated_by: Memet Zx
+  last_updated_on: 2022-10-11 23:04:29.000000000 Z
+- name: markdown-it-anchor
+  description: Header anchors for markdown-it
+  package_url: https://www.npmjs.com/markdown-it-anchor
+  version: 8.6.5
+  license: Unlicense
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/17109/default_fbe883dfc6d978f82179fa11bdf634af1b6751fa.png
+  detection_source_url: https://github.com/Zxce3/11ty-theme-kernelorg/blob/main/yarn.lock
+  detection_source: package.json
+  last_updated_by: Memet Zx
+  last_updated_on: 2022-10-11 23:04:29.000000000 Z
+- name: node-sass
+  description: Wrapper around libsass
+  package_url: https://www.npmjs.com/node-sass
+  version: 7.0.3
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15827/default_db4a7791d2f1174547374b9b587bc10fec088a5a.png
+  detection_source_url: https://github.com/Zxce3/11ty-theme-kernelorg/blob/main/yarn.lock
+  detection_source: package.json
+  last_updated_by: Memet Zx
+  last_updated_on: 2022-10-11 23:04:29.000000000 Z
+- name: npm-run-all
+  description: A CLI tool to run multiple npm-scripts in parallel or sequential
+  package_url: https://www.npmjs.com/npm-run-all
+  version: 4.1.5
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15926/default_b45165a5d30e541ab11711a34a78209b3e8ed7fd.png
+  detection_source_url: https://github.com/Zxce3/11ty-theme-kernelorg/blob/main/yarn.lock
+  detection_source: package.json
+  last_updated_by: Memet Zx
+  last_updated_on: 2022-10-11 23:04:29.000000000 Z
